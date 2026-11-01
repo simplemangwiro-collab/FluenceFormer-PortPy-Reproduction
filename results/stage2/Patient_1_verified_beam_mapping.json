@@ -1,0 +1,38 @@
+[
+  {
+    "beam_id": 36,
+    "gantry_angle": 180
+  },
+  {
+    "beam_id": 44,
+    "gantry_angle": 220
+  },
+  {
+    "beam_id": 52,
+    "gantry_angle": 260
+  },
+  {
+    "beam_id": 60,
+    "gantry_angle": 300
+  },
+  {
+    "beam_id": 68,
+    "gantry_angle": 340
+  },
+  {
+    "beam_id": 4,
+    "gantry_angle": 20
+  },
+  {
+    "beam_id": 12,
+    "gantry_angle": 60
+  },
+  {
+    "beam_id": 20,
+    "gantry_angle": 100
+  },
+  {
+    "beam_id": 28,
+    "gantry_angle": 140
+  }
+]

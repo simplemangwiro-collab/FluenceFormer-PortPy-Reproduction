@@ -1,0 +1,272 @@
+relative_path,category,size_bytes,size_mb,extension
+Patient_1/ct.npy,NumPy experimental data,983168,0.938,.npy
+Patient_1/dose.npy,NumPy experimental data,983168,0.938,.npy
+Patient_1/optimized_portpy/beam_12_fluence.npy,NumPy experimental data,8576,0.008,.npy
+Patient_1/optimized_portpy/beam_20_fluence.npy,NumPy experimental data,7808,0.007,.npy
+Patient_1/optimized_portpy/beam_28_fluence.npy,NumPy experimental data,8576,0.008,.npy
+Patient_1/optimized_portpy/beam_36_fluence.npy,NumPy experimental data,9088,0.009,.npy
+Patient_1/optimized_portpy/beam_44_fluence.npy,NumPy experimental data,8832,0.008,.npy
+Patient_1/optimized_portpy/beam_4_fluence.npy,NumPy experimental data,8832,0.008,.npy
+Patient_1/optimized_portpy/beam_52_fluence.npy,NumPy experimental data,7808,0.007,.npy
+Patient_1/optimized_portpy/beam_60_fluence.npy,NumPy experimental data,8576,0.008,.npy
+Patient_1/optimized_portpy/beam_68_fluence.npy,NumPy experimental data,8576,0.008,.npy
+Patient_1/optimized_portpy/optimal_intensity.npy,NumPy experimental data,15848,0.015,.npy
+Patient_1/optimized_portpy/optimized_dose_1d.npy,NumPy experimental data,1804648,1.721,.npy
+Patient_1/optimized_portpy/optimized_dose_3d.npy,NumPy experimental data,440402048,420.0,.npy
+Patient_1/ptv_contours.npy,NumPy experimental data,983168,0.938,.npy
+Patient_1/raw_portpy/Beam_12_Data.h5,PortPy HDF5 data,134949096,128.697,.h5
+Patient_1/raw_portpy/Beam_12_MetaData.json,Metadata or results,1198,0.001,.json
+Patient_1/raw_portpy/Beam_20_Data.h5,PortPy HDF5 data,116959490,111.541,.h5
+Patient_1/raw_portpy/Beam_20_MetaData.json,Metadata or results,1197,0.001,.json
+Patient_1/raw_portpy/Beam_28_Data.h5,PortPy HDF5 data,104889610,100.031,.h5
+Patient_1/raw_portpy/Beam_28_MetaData.json,Metadata or results,1195,0.001,.json
+Patient_1/raw_portpy/Beam_36_Data.h5,PortPy HDF5 data,77973627,74.361,.h5
+Patient_1/raw_portpy/Beam_36_MetaData.json,Metadata or results,1199,0.001,.json
+Patient_1/raw_portpy/Beam_44_Data.h5,PortPy HDF5 data,106392222,101.464,.h5
+Patient_1/raw_portpy/Beam_44_MetaData.json,Metadata or results,1197,0.001,.json
+Patient_1/raw_portpy/Beam_4_Data.h5,PortPy HDF5 data,90274206,86.092,.h5
+Patient_1/raw_portpy/Beam_4_MetaData.json,Metadata or results,1185,0.001,.json
+Patient_1/raw_portpy/Beam_52_Data.h5,PortPy HDF5 data,115093966,109.762,.h5
+Patient_1/raw_portpy/Beam_52_MetaData.json,Metadata or results,1197,0.001,.json
+Patient_1/raw_portpy/Beam_60_Data.h5,PortPy HDF5 data,132965149,126.805,.h5
+Patient_1/raw_portpy/Beam_60_MetaData.json,Metadata or results,1199,0.001,.json
+Patient_1/raw_portpy/Beam_68_Data.h5,PortPy HDF5 data,87884043,83.813,.h5
+Patient_1/raw_portpy/Beam_68_MetaData.json,Metadata or results,1199,0.001,.json
+Patient_1/raw_portpy/CT_Data.h5,PortPy HDF5 data,69996599,66.754,.h5
+Patient_1/raw_portpy/CT_MetaData.json,Metadata or results,293,0.0,.json
+Patient_1/raw_portpy/DicomFiles/rt_dose_echo_imrt.dcm,Medical image,5421000,5.17,.dcm
+Patient_1/raw_portpy/DicomFiles/rt_plan_echo_imrt.dcm,Medical image,1133338,1.081,.dcm
+Patient_1/raw_portpy/OptimizationVoxels_Data.h5,PortPy HDF5 data,7842392,7.479,.h5
+Patient_1/raw_portpy/OptimizationVoxels_MetaData.json,Metadata or results,542,0.001,.json
+Patient_1/raw_portpy/PlannerBeams.json,Metadata or results,88,0.0,.json
+Patient_1/raw_portpy/StructureSet_Data.h5,PortPy HDF5 data,2372096,2.262,.h5
+Patient_1/raw_portpy/StructureSet_MetaData.json,Metadata or results,1584,0.002,.json
+Patient_1/verified_beam_mapping.json,Metadata or results,467,0.0,.json
+Patient_10/raw_portpy/CT_Data.h5,PortPy HDF5 data,35531330,33.885,.h5
+Patient_10/raw_portpy/CT_MetaData.json,Metadata or results,292,0.0,.json
+Patient_10/raw_portpy/DicomFiles/rt_dose_echo_imrt.dcm,Medical image,18514444,17.657,.dcm
+Patient_10/raw_portpy/DicomFiles/rt_plan_echo_imrt.dcm,Medical image,1111558,1.06,.dcm
+Patient_10/raw_portpy/StructureSet_Data.h5,PortPy HDF5 data,1028162,0.981,.h5
+Patient_10/raw_portpy/StructureSet_MetaData.json,Metadata or results,1347,0.001,.json
+Patient_2/raw_portpy/Beam_12_Data.h5,PortPy HDF5 data,296909199,283.155,.h5
+Patient_2/raw_portpy/Beam_20_Data.h5,PortPy HDF5 data,255472758,243.638,.h5
+Patient_2/raw_portpy/Beam_28_Data.h5,PortPy HDF5 data,243170132,231.905,.h5
+Patient_2/raw_portpy/Beam_36_Data.h5,PortPy HDF5 data,164977213,157.335,.h5
+Patient_2/raw_portpy/Beam_44_Data.h5,PortPy HDF5 data,251943739,240.272,.h5
+Patient_2/raw_portpy/Beam_4_Data.h5,PortPy HDF5 data,216001311,205.995,.h5
+Patient_2/raw_portpy/Beam_52_Data.h5,PortPy HDF5 data,245762298,234.377,.h5
+Patient_2/raw_portpy/Beam_60_Data.h5,PortPy HDF5 data,297312652,283.539,.h5
+Patient_2/raw_portpy/Beam_68_Data.h5,PortPy HDF5 data,215465863,205.484,.h5
+Patient_2/raw_portpy/CT_Data.h5,PortPy HDF5 data,37127447,35.407,.h5
+Patient_2/raw_portpy/CT_MetaData.json,Metadata or results,291,0.0,.json
+Patient_2/raw_portpy/DicomFiles/RS.1.2.246.352.71.4.565238251846.110078.20250811122117,Other,5139960,4.902,.20250811122117
+Patient_2/raw_portpy/DicomFiles/rt_dose_echo_imrt.dcm,Medical image,9297168,8.866,.dcm
+Patient_2/raw_portpy/DicomFiles/rt_plan_echo_imrt.dcm,Medical image,1145722,1.093,.dcm
+Patient_2/raw_portpy/OptimizationVoxels_Data.h5,PortPy HDF5 data,15743483,15.014,.h5
+Patient_2/raw_portpy/OptimizationVoxels_MetaData.json,Metadata or results,542,0.001,.json
+Patient_2/raw_portpy/StructureSet_Data.h5,PortPy HDF5 data,1065852,1.016,.h5
+Patient_2/raw_portpy/StructureSet_MetaData.json,Metadata or results,1556,0.001,.json
+Patient_2/raw_portpy/_rtstruct_cache/.cache/huggingface/.gitignore,Other,1,0.0,
+Patient_2/raw_portpy/_rtstruct_cache/.cache/huggingface/CACHEDIR.TAG,Other,191,0.0,.tag
+Patient_2/raw_portpy/_rtstruct_cache/.cache/huggingface/download/data/Prostate_Patient_2/DicomFiles/RS.1.2.246.352.71.4.565238251846.110078.20250811122117.lock,Other,0,0.0,.lock
+Patient_2/raw_portpy/_rtstruct_cache/.cache/huggingface/download/data/Prostate_Patient_2/DicomFiles/RS.1.2.246.352.71.4.565238251846.110078.20250811122117.metadata,Other,125,0.0,.metadata
+Patient_2/raw_portpy/_rtstruct_cache/data/Prostate_Patient_2/DicomFiles/RS.1.2.246.352.71.4.565238251846.110078.20250811122117,Other,5139960,4.902,.20250811122117
+Patient_3/raw_portpy/CT_Data.h5,PortPy HDF5 data,40322004,38.454,.h5
+Patient_3/raw_portpy/CT_MetaData.json,Metadata or results,290,0.0,.json
+Patient_3/raw_portpy/DicomFiles/rt_dose_echo_imrt.dcm,Medical image,16420336,15.66,.dcm
+Patient_3/raw_portpy/DicomFiles/rt_plan_echo_imrt.dcm,Medical image,1163338,1.109,.dcm
+Patient_3/raw_portpy/StructureSet_Data.h5,PortPy HDF5 data,1104872,1.054,.h5
+Patient_3/raw_portpy/StructureSet_MetaData.json,Metadata or results,1586,0.002,.json
+Patient_4/raw_portpy/CT_Data.h5,PortPy HDF5 data,38532623,36.748,.h5
+Patient_4/raw_portpy/CT_MetaData.json,Metadata or results,291,0.0,.json
+Patient_4/raw_portpy/DicomFiles/rt_dose_echo_imrt.dcm,Medical image,11204280,10.685,.dcm
+Patient_4/raw_portpy/DicomFiles/rt_plan_echo_imrt.dcm,Medical image,1153958,1.101,.dcm
+Patient_4/raw_portpy/StructureSet_Data.h5,PortPy HDF5 data,1133243,1.081,.h5
+Patient_4/raw_portpy/StructureSet_MetaData.json,Metadata or results,1557,0.001,.json
+Patient_5/raw_portpy/CT_Data.h5,PortPy HDF5 data,120202016,114.634,.h5
+Patient_5/raw_portpy/CT_MetaData.json,Metadata or results,294,0.0,.json
+Patient_5/raw_portpy/DicomFiles/rt_dose_echo_imrt.dcm,Medical image,11982474,11.427,.dcm
+Patient_5/raw_portpy/DicomFiles/rt_plan_echo_imrt.dcm,Medical image,1166090,1.112,.dcm
+Patient_5/raw_portpy/StructureSet_Data.h5,PortPy HDF5 data,2807540,2.677,.h5
+Patient_5/raw_portpy/StructureSet_MetaData.json,Metadata or results,1556,0.001,.json
+Patient_6/raw_portpy/CT_Data.h5,PortPy HDF5 data,37193235,35.47,.h5
+Patient_6/raw_portpy/CT_MetaData.json,Metadata or results,292,0.0,.json
+Patient_6/raw_portpy/DicomFiles/rt_dose_echo_imrt.dcm,Medical image,14790482,14.105,.dcm
+Patient_6/raw_portpy/DicomFiles/rt_plan_echo_imrt.dcm,Medical image,1206278,1.15,.dcm
+Patient_6/raw_portpy/StructureSet_Data.h5,PortPy HDF5 data,1132561,1.08,.h5
+Patient_6/raw_portpy/StructureSet_MetaData.json,Metadata or results,1561,0.001,.json
+Patient_7/raw_portpy/CT_Data.h5,PortPy HDF5 data,36387265,34.702,.h5
+Patient_7/raw_portpy/CT_MetaData.json,Metadata or results,293,0.0,.json
+Patient_7/raw_portpy/DicomFiles/rt_dose_echo_imrt.dcm,Medical image,16571280,15.804,.dcm
+Patient_7/raw_portpy/DicomFiles/rt_plan_echo_imrt.dcm,Medical image,1155214,1.102,.dcm
+Patient_7/raw_portpy/StructureSet_Data.h5,PortPy HDF5 data,1100329,1.049,.h5
+Patient_7/raw_portpy/StructureSet_MetaData.json,Metadata or results,1372,0.001,.json
+Patient_8/raw_portpy/CT_Data.h5,PortPy HDF5 data,32294949,30.799,.h5
+Patient_8/raw_portpy/CT_MetaData.json,Metadata or results,296,0.0,.json
+Patient_8/raw_portpy/DicomFiles/rt_dose_echo_imrt.dcm,Medical image,10428152,9.945,.dcm
+Patient_8/raw_portpy/DicomFiles/rt_plan_echo_imrt.dcm,Medical image,1131994,1.08,.dcm
+Patient_8/raw_portpy/StructureSet_Data.h5,PortPy HDF5 data,1021370,0.974,.h5
+Patient_8/raw_portpy/StructureSet_MetaData.json,Metadata or results,1352,0.001,.json
+Patient_9/raw_portpy/CT_Data.h5,PortPy HDF5 data,121143359,115.531,.h5
+Patient_9/raw_portpy/CT_MetaData.json,Metadata or results,292,0.0,.json
+Patient_9/raw_portpy/DicomFiles/rt_dose_echo_imrt.dcm,Medical image,11336564,10.811,.dcm
+Patient_9/raw_portpy/DicomFiles/rt_plan_echo_imrt.dcm,Medical image,1152198,1.099,.dcm
+Patient_9/raw_portpy/StructureSet_Data.h5,PortPy HDF5 data,2837359,2.706,.h5
+Patient_9/raw_portpy/StructureSet_MetaData.json,Metadata or results,1558,0.001,.json
+Stage1_Checkpoints/swinunetr_stage1_patient1_epoch5.pth,Model checkpoint,75993489,72.473,.pth
+Stage1_Checkpoints/swinunetr_stage1_patient1_feature48_epoch2_diagnostic.pth,Model checkpoint,302041987,288.05,.pth
+Stage1_MultiPatient_Anatomy_Provisional/Patient_1/anatomy_masks.npy,NumPy experimental data,2457728,2.344,.npy
+Stage1_MultiPatient_Anatomy_Provisional/Patient_1/report.json,Metadata or results,704,0.001,.json
+Stage1_MultiPatient_Anatomy_Provisional/Patient_10/anatomy_masks.npy,NumPy experimental data,3637376,3.469,.npy
+Stage1_MultiPatient_Anatomy_Provisional/Patient_10/report.json,Metadata or results,802,0.001,.json
+Stage1_MultiPatient_Anatomy_Provisional/Patient_2/anatomy_masks.npy,NumPy experimental data,3735680,3.563,.npy
+Stage1_MultiPatient_Anatomy_Provisional/Patient_2/report.json,Metadata or results,808,0.001,.json
+Stage1_MultiPatient_Anatomy_Provisional/Patient_3/anatomy_masks.npy,NumPy experimental data,4423808,4.219,.npy
+Stage1_MultiPatient_Anatomy_Provisional/Patient_3/report.json,Metadata or results,878,0.001,.json
+Stage1_MultiPatient_Anatomy_Provisional/Patient_4/anatomy_masks.npy,NumPy experimental data,3833984,3.656,.npy
+Stage1_MultiPatient_Anatomy_Provisional/Patient_4/report.json,Metadata or results,816,0.001,.json
+Stage1_MultiPatient_Anatomy_Provisional/Patient_5/anatomy_masks.npy,NumPy experimental data,4227200,4.031,.npy
+Stage1_MultiPatient_Anatomy_Provisional/Patient_5/report.json,Metadata or results,848,0.001,.json
+Stage1_MultiPatient_Anatomy_Provisional/Patient_6/anatomy_masks.npy,NumPy experimental data,5603456,5.344,.npy
+Stage1_MultiPatient_Anatomy_Provisional/Patient_6/report.json,Metadata or results,981,0.001,.json
+Stage1_MultiPatient_Anatomy_Provisional/Patient_7/anatomy_masks.npy,NumPy experimental data,3932288,3.75,.npy
+Stage1_MultiPatient_Anatomy_Provisional/Patient_7/report.json,Metadata or results,848,0.001,.json
+Stage1_MultiPatient_Anatomy_Provisional/Patient_8/anatomy_masks.npy,NumPy experimental data,3440768,3.281,.npy
+Stage1_MultiPatient_Anatomy_Provisional/Patient_8/report.json,Metadata or results,785,0.001,.json
+Stage1_MultiPatient_Anatomy_Provisional/Patient_9/anatomy_masks.npy,NumPy experimental data,3735680,3.563,.npy
+Stage1_MultiPatient_Anatomy_Provisional/Patient_9/report.json,Metadata or results,808,0.001,.json
+Stage1_MultiPatient_Provisional/Patient_1/ct.npy,NumPy experimental data,1638528,1.563,.npy
+Stage1_MultiPatient_Provisional/Patient_1/dose_gy_per_fraction.npy,NumPy experimental data,1638528,1.563,.npy
+Stage1_MultiPatient_Provisional/Patient_1/ptv.npy,NumPy experimental data,1638528,1.563,.npy
+Stage1_MultiPatient_Provisional/Patient_1/report.json,Metadata or results,434,0.0,.json
+Stage1_MultiPatient_Provisional/Patient_10/ct.npy,NumPy experimental data,2424960,2.313,.npy
+Stage1_MultiPatient_Provisional/Patient_10/dose_gy_per_fraction.npy,NumPy experimental data,2424960,2.313,.npy
+Stage1_MultiPatient_Provisional/Patient_10/ptv.npy,NumPy experimental data,2424960,2.313,.npy
+Stage1_MultiPatient_Provisional/Patient_10/report.json,Metadata or results,434,0.0,.json
+Stage1_MultiPatient_Provisional/Patient_2/ct.npy,NumPy experimental data,2490496,2.375,.npy
+Stage1_MultiPatient_Provisional/Patient_2/dose_gy_per_fraction.npy,NumPy experimental data,2490496,2.375,.npy
+Stage1_MultiPatient_Provisional/Patient_2/ptv.npy,NumPy experimental data,2490496,2.375,.npy
+Stage1_MultiPatient_Provisional/Patient_2/report.json,Metadata or results,433,0.0,.json
+Stage1_MultiPatient_Provisional/Patient_3/ct.npy,NumPy experimental data,2949248,2.813,.npy
+Stage1_MultiPatient_Provisional/Patient_3/dose_gy_per_fraction.npy,NumPy experimental data,2949248,2.813,.npy
+Stage1_MultiPatient_Provisional/Patient_3/ptv.npy,NumPy experimental data,2949248,2.813,.npy
+Stage1_MultiPatient_Provisional/Patient_3/report.json,Metadata or results,435,0.0,.json
+Stage1_MultiPatient_Provisional/Patient_4/ct.npy,NumPy experimental data,2556032,2.438,.npy
+Stage1_MultiPatient_Provisional/Patient_4/dose_gy_per_fraction.npy,NumPy experimental data,2556032,2.438,.npy
+Stage1_MultiPatient_Provisional/Patient_4/ptv.npy,NumPy experimental data,2556032,2.438,.npy
+Stage1_MultiPatient_Provisional/Patient_4/report.json,Metadata or results,434,0.0,.json
+Stage1_MultiPatient_Provisional/Patient_5/ct.npy,NumPy experimental data,2818176,2.688,.npy
+Stage1_MultiPatient_Provisional/Patient_5/dose_gy_per_fraction.npy,NumPy experimental data,2818176,2.688,.npy
+Stage1_MultiPatient_Provisional/Patient_5/ptv.npy,NumPy experimental data,2818176,2.688,.npy
+Stage1_MultiPatient_Provisional/Patient_5/report.json,Metadata or results,434,0.0,.json
+Stage1_MultiPatient_Provisional/Patient_6/ct.npy,NumPy experimental data,3735680,3.563,.npy
+Stage1_MultiPatient_Provisional/Patient_6/dose_gy_per_fraction.npy,NumPy experimental data,3735680,3.563,.npy
+Stage1_MultiPatient_Provisional/Patient_6/ptv.npy,NumPy experimental data,3735680,3.563,.npy
+Stage1_MultiPatient_Provisional/Patient_6/report.json,Metadata or results,435,0.0,.json
+Stage1_MultiPatient_Provisional/Patient_7/ct.npy,NumPy experimental data,2621568,2.5,.npy
+Stage1_MultiPatient_Provisional/Patient_7/dose_gy_per_fraction.npy,NumPy experimental data,2621568,2.5,.npy
+Stage1_MultiPatient_Provisional/Patient_7/ptv.npy,NumPy experimental data,2621568,2.5,.npy
+Stage1_MultiPatient_Provisional/Patient_7/report.json,Metadata or results,435,0.0,.json
+Stage1_MultiPatient_Provisional/Patient_8/ct.npy,NumPy experimental data,2293888,2.188,.npy
+Stage1_MultiPatient_Provisional/Patient_8/dose_gy_per_fraction.npy,NumPy experimental data,2293888,2.188,.npy
+Stage1_MultiPatient_Provisional/Patient_8/ptv.npy,NumPy experimental data,2293888,2.188,.npy
+Stage1_MultiPatient_Provisional/Patient_8/report.json,Metadata or results,433,0.0,.json
+Stage1_MultiPatient_Provisional/Patient_9/ct.npy,NumPy experimental data,2490496,2.375,.npy
+Stage1_MultiPatient_Provisional/Patient_9/dose_gy_per_fraction.npy,NumPy experimental data,2490496,2.375,.npy
+Stage1_MultiPatient_Provisional/Patient_9/ptv.npy,NumPy experimental data,2490496,2.375,.npy
+Stage1_MultiPatient_Provisional/Patient_9/report.json,Metadata or results,434,0.0,.json
+Stage1_MultiPatient_Provisional/patient_split_10.json,Metadata or results,446,0.0,.json
+Stage1_SwinUNETR_Full_Training/best_model.pt,Model checkpoint,100793520,96.124,.pt
+Stage1_SwinUNETR_Full_Training/heldout_test_results.csv,Metadata or results,329,0.0,.csv
+Stage1_SwinUNETR_Full_Training/latest_checkpoint.pt,Model checkpoint,302064731,288.071,.pt
+Stage1_SwinUNETR_Full_Training/stage1_test_dose_comparison.png,Other,248024,0.237,.png
+Stage1_SwinUNETR_Full_Training/training_history.json,Metadata or results,6073,0.006,.json
+Stage1_SwinUNETR_Pilot/pilot_history.json,Metadata or results,361,0.0,.json
+Stage1_SwinUNETR_Pilot/pilot_model.pt,Model checkpoint,100793685,96.124,.pt
+Stage1_Verified_Preprocessing/ct_stage1.npy,NumPy experimental data,983168,0.938,.npy
+Stage1_Verified_Preprocessing/dose_stage1.npy,NumPy experimental data,983168,0.938,.npy
+Stage1_Verified_Preprocessing/ptv_stage1.npy,NumPy experimental data,983168,0.938,.npy
+Stage2_Fluence_Validation/Patient_1_Fluence_Reconstruction_Validation.json,Metadata or results,1819,0.002,.json
+_portpy_download_cache/.cache/huggingface/.gitignore,Download cache,1,0.0,
+_portpy_download_cache/.cache/huggingface/CACHEDIR.TAG,Download cache,191,0.0,.tag
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_12_Data.h5.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_12_Data.h5.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_12_MetaData.json.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_12_MetaData.json.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_20_Data.h5.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_20_Data.h5.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_20_MetaData.json.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_20_MetaData.json.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_28_Data.h5.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_28_Data.h5.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_28_MetaData.json.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_28_MetaData.json.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_36_Data.h5.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_36_Data.h5.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_36_MetaData.json.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_36_MetaData.json.metadata,Download cache,124,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_44_Data.h5.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_44_Data.h5.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_44_MetaData.json.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_44_MetaData.json.metadata,Download cache,124,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_4_Data.h5.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_4_Data.h5.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_4_MetaData.json.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_4_MetaData.json.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_52_Data.h5.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_52_Data.h5.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_52_MetaData.json.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_52_MetaData.json.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_60_Data.h5.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_60_Data.h5.metadata,Download cache,124,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_60_MetaData.json.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_60_MetaData.json.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_68_Data.h5.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_68_Data.h5.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_68_MetaData.json.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/Beams/Beam_68_MetaData.json.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/CT_Data.h5.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/CT_Data.h5.metadata,Download cache,124,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/CT_MetaData.json.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/CT_MetaData.json.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/DicomFiles/rt_dose_echo_imrt.dcm.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/DicomFiles/rt_dose_echo_imrt.dcm.metadata,Download cache,124,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/DicomFiles/rt_plan_echo_imrt.dcm.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/DicomFiles/rt_plan_echo_imrt.dcm.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/OptimizationVoxels_Data.h5.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/OptimizationVoxels_Data.h5.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/OptimizationVoxels_MetaData.json.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/OptimizationVoxels_MetaData.json.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/PlannerBeams.json.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/PlannerBeams.json.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/StructureSet_Data.h5.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/StructureSet_Data.h5.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/StructureSet_MetaData.json.lock,Download cache,0,0.0,.lock
+_portpy_download_cache/.cache/huggingface/download/data/Prostate_Patient_2/StructureSet_MetaData.json.metadata,Download cache,125,0.0,.metadata
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_12_Data.h5,Download cache,296909199,283.155,.h5
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_12_MetaData.json,Download cache,1196,0.001,.json
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_20_Data.h5,Download cache,255472758,243.638,.h5
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_20_MetaData.json,Download cache,1195,0.001,.json
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_28_Data.h5,Download cache,243170132,231.905,.h5
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_28_MetaData.json,Download cache,1199,0.001,.json
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_36_Data.h5,Download cache,164977213,157.335,.h5
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_36_MetaData.json,Download cache,1195,0.001,.json
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_44_Data.h5,Download cache,251943739,240.272,.h5
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_44_MetaData.json,Download cache,1197,0.001,.json
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_4_Data.h5,Download cache,216001311,205.995,.h5
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_4_MetaData.json,Download cache,1185,0.001,.json
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_52_Data.h5,Download cache,245762298,234.377,.h5
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_52_MetaData.json,Download cache,1197,0.001,.json
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_60_Data.h5,Download cache,297312652,283.539,.h5
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_60_MetaData.json,Download cache,1197,0.001,.json
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_68_Data.h5,Download cache,215465863,205.484,.h5
+_portpy_download_cache/data/Prostate_Patient_2/Beams/Beam_68_MetaData.json,Download cache,1197,0.001,.json
+_portpy_download_cache/data/Prostate_Patient_2/CT_Data.h5,Download cache,37127447,35.407,.h5
+_portpy_download_cache/data/Prostate_Patient_2/CT_MetaData.json,Download cache,291,0.0,.json
+_portpy_download_cache/data/Prostate_Patient_2/DicomFiles/rt_dose_echo_imrt.dcm,Download cache,9297168,8.866,.dcm
+_portpy_download_cache/data/Prostate_Patient_2/DicomFiles/rt_plan_echo_imrt.dcm,Download cache,1145722,1.093,.dcm
+_portpy_download_cache/data/Prostate_Patient_2/OptimizationVoxels_Data.h5,Download cache,15743483,15.014,.h5
+_portpy_download_cache/data/Prostate_Patient_2/OptimizationVoxels_MetaData.json,Download cache,542,0.001,.json
+_portpy_download_cache/data/Prostate_Patient_2/PlannerBeams.json,Download cache,88,0.0,.json
+_portpy_download_cache/data/Prostate_Patient_2/StructureSet_Data.h5,Download cache,1065852,1.016,.h5
+_portpy_download_cache/data/Prostate_Patient_2/StructureSet_MetaData.json,Download cache,1556,0.001,.json

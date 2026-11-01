@@ -1,0 +1,101 @@
+{
+  "patient": "Patient_1",
+  "timestamp_utc": "2026-11-01T07:22:00.130820+00:00",
+  "method": "PortPy InfluenceMatrix.fluence_1d_to_2d",
+  "beamlet_selection": {
+    "target_structure": "PTV",
+    "ptv_margin_mm": 3,
+    "beamlet_width_mm": 2.5,
+    "beamlet_height_mm": 5.0
+  },
+  "selected_beamlets": 1965,
+  "saved_intensity_count": 1965,
+  "beam_results": [
+    {
+      "beam_id": 36,
+      "shape": [
+        32,
+        35
+      ],
+      "exact_match": true,
+      "max_absolute_error": 0.0
+    },
+    {
+      "beam_id": 44,
+      "shape": [
+        32,
+        34
+      ],
+      "exact_match": true,
+      "max_absolute_error": 0.0
+    },
+    {
+      "beam_id": 52,
+      "shape": [
+        32,
+        30
+      ],
+      "exact_match": true,
+      "max_absolute_error": 0.0
+    },
+    {
+      "beam_id": 60,
+      "shape": [
+        32,
+        33
+      ],
+      "exact_match": true,
+      "max_absolute_error": 0.0
+    },
+    {
+      "beam_id": 68,
+      "shape": [
+        32,
+        33
+      ],
+      "exact_match": true,
+      "max_absolute_error": 0.0
+    },
+    {
+      "beam_id": 4,
+      "shape": [
+        32,
+        34
+      ],
+      "exact_match": true,
+      "max_absolute_error": 0.0
+    },
+    {
+      "beam_id": 12,
+      "shape": [
+        32,
+        33
+      ],
+      "exact_match": true,
+      "max_absolute_error": 0.0
+    },
+    {
+      "beam_id": 20,
+      "shape": [
+        32,
+        30
+      ],
+      "exact_match": true,
+      "max_absolute_error": 0.0
+    },
+    {
+      "beam_id": 28,
+      "shape": [
+        32,
+        33
+      ],
+      "exact_match": true,
+      "max_absolute_error": 0.0
+    }
+  ],
+  "all_exact": true,
+  "limitations": [
+    "Saved intensity optimization provenance not yet verified",
+    "Full two-stage FluenceFormer reproduction not yet completed"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "seed": 42,
+  "dataset_status": "PROVISIONAL",
+  "split_method": "Patient-level random split",
+  "train": [
+    "Patient_6",
+    "Patient_7",
+    "Patient_1",
+    "Patient_8",
+    "Patient_4",
+    "Patient_3",
+    "Patient_5"
+  ],
+  "validation": [
+    "Patient_10"
+  ],
+  "test": [
+    "Patient_2",
+    "Patient_9"
+  ],
+  "slice_counts": {
+    "train": 284,
+    "validation": 37,
+    "test": 76
+  },
+  "paper_faithful_preprocessing": false
+}
